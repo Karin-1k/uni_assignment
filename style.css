@@ -1,0 +1,61 @@
+#form {
+    border: 1px solid black;
+    justify-content: center;
+
+    width: 170vh;
+    margin-left: 15vh;
+}
+
+.input {
+    width: 160vh;
+    height: 5vh;
+}
+
+#div {
+    margin-left: 5vh;
+}
+
+#submit {
+    width: 20vh;
+    height: 7vh;
+    background-color: green;
+    border: 0cap;
+    color: white;
+}
+
+#table {
+    display: table;
+    border: 1px solid black;
+    width: 161vh;
+}
+
+#tr {
+    display: table-row;
+}
+
+.td {
+    display: table-cell;
+    color: black;
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    height: 5vh;
+}
+
+#alert {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: red;
+    padding: 20px;
+    width: 300px;
+}
+
+#button {
+    margin-left: 280px;
+}
+
+#h4{
+    color: aliceblue;
+}
